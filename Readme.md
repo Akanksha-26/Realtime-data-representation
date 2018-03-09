@@ -19,8 +19,8 @@ fx updates.
 Once you've started the development server, navigate to http://localhost:8011
 to read the task description and get started.
 
-###Assumtions:
-
+Assumtions:
+===========
 
 1) All the prices recived from websocket are updated in table. Multiple objects for same `name` have different rows.
 
@@ -31,7 +31,8 @@ to read the task description and get started.
 4) `Sparkline` showing representation of all the data from start of server.
 
 
-##Future Modifications
+Future Modifications:
+=====================
 1) Table is not the medium which is very useful in this kind of crude data representation. Either data should be cleaned up or charts or some kind of color representation should be used.
 
 2) We could use d3.js for charts
