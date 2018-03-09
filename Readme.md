@@ -19,7 +19,7 @@ fx updates.
 Once you've started the development server, navigate to http://localhost:8011
 to read the task description and get started.
 
-##Assumtions:
+###Assumtions:
 
 
 1) All the prices recived from websocket are updated in table. Multiple objects for same `name` have different rows.
